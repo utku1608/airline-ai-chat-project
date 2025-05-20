@@ -1,0 +1,12 @@
+# .env dosyasını hariç tut
+ai-chat-gateway/.env
+
+# node_modules klasörleri
+**/node_modules
+
+# log dosyaları
+*.log
+
+# sistem dosyaları
+.DS_Store
+Thumbs.db
