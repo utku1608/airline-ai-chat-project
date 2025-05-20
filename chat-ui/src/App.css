@@ -1,0 +1,57 @@
+.App {
+  max-width: 600px;
+  margin: auto;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+.chat-window {
+  border: 1px solid #ccc;
+  padding: 10px;
+  height: 400px;
+  overflow-y: auto;
+  margin-bottom: 10px;
+  background: #f9f9f9;
+}
+
+.message {
+  margin: 5px 0;
+}
+
+.message.user {
+  text-align: right;
+  color: blue;
+}
+
+.message.bot {
+  text-align: left;
+  color: green;
+}
+
+.input-area {
+  display: flex;
+  gap: 10px;
+}
+input {
+  flex: 1;
+  padding: 10px;
+  font-size: 1em;
+}
+button {
+  padding: 10px 20px;
+  font-size: 1em;
+}
+.flight-card {
+  background-color: #eef;
+  border: 1px solid #ccd;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px 0;
+  text-align: left;
+  font-size: 14px;
+}
+.message.bot {
+  white-space: pre-line;
+}
+
+
