@@ -11,7 +11,7 @@ It extends a RESTful airline ticketing API with an AI-powered chat interface tha
   https://github.com/utku1608/airline-ai-chat-final
 
 - 🎥 **Demo Video (YouTube or Google Drive):**  
-  https://youtu.be/YOUR_VIDEO_LINK_HERE
+  https://drive.google.com/file/d/1yUX6OY5KZTYVzwfvp0lqcjY8WzcxTUJv/view?usp=sharing
 
 ---
 
