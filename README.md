@@ -80,7 +80,7 @@ It extends a RESTful airline ticketing API with an AI-powered chat interface tha
 **User:** 2. uçuş için bilet al  
 **Bot:** 🎫 TICKET PURCHASED! Your ticket number is: ABC123
 
-**User:** Check-in yap  
+**User:** satın alınan uçuş için "name surname " adına Check-in yap  
 **Bot:** ✅ Checked in! Seat assigned: P1  
 
 ---
